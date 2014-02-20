@@ -1,13 +1,11 @@
 {
-  "name": "excerpt",
-  "version": "0.0.1",
+  "name": "chieffancypants-excerpt",
   "description": "Extracts an excerpt of text that matches a phrase",
-  "keywords": ["component", "string", "excerpt"],
-  "author": "Wes Cruver <chieffancypants@gmail.com>",
+  "version": "0.0.1",
+  "keywords": [
+    "string",
+    "excerpt"
+  ],
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "main": "index"
+  "license": "MIT"
 }
